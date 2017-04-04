@@ -1,0 +1,11 @@
+Package: lovewallpaper
+Version: 1.5.4-0
+Architecture: all
+Maintainer: kevinzhow <kevinchou.c@gmail.com>
+Installed-Size: 2076
+Depends: python-apt, python-notify, python-pyside, xdotool, python, python-support (>= 0.90.0)
+Section: utils
+Priority: optional
+Homepage: http://lovebizhi.com
+Description: Lovewallpaper
+ Lovewallpaper is an application for users to find and set wallpaper for their desktop.We have over 500000 wallpapers in diffrent kinds.
